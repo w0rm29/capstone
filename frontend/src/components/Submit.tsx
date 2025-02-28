@@ -17,7 +17,7 @@ export default function BasicButtons() {
       todo: todo, 
       tag: tag,
       start_date: startDate?.toISOString(),
-      endDate: endDate?.toISOString()
+      end_date: endDate?.toISOString()
     };
 
     console.log("Submit Data:", submitData);

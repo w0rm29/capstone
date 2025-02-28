@@ -1,6 +1,7 @@
 import React from 'react';
 import Form  from './components/Form';
 import Submit from './components/Submit';
+import ViewTasks from './components/ViewTasks';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <h1>Welcome to Chronoplan</h1>
       {/* <Form/> */}
       <Submit/>
+      <ViewTasks/>
     </div>
   );
 }
