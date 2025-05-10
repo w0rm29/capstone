@@ -22,13 +22,13 @@ LMQL serves as the reasoning engine in this project. It enables querying large l
 - **Natural Language Interface**: Converts free-form task input into structured data via LMQL prompts.
 
 ## High level diagram
-![A helpful diagram of ChronoPlan’s workflow](/chronoplan/docs/chronoplan.png)
+![A helpful diagram of ChronoPlan’s workflow](/docs/chronoplan.png)
 
 ## Output Visualization
 
 The following image illustrates how ChronoPlan assigns weights to tasks based on contextual importance and user-defined preferences. The integration with LMQL enables natural language understanding to dynamically prioritize tasks with respect to time sensitivity, category, and urgency:
 
-![Task Prioritization Output](/chronoplan/docs/output.png)
+![Task Prioritization Output](/docs/output.png)
 
 ## 🚀 Future Work
 
